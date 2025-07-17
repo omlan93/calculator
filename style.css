@@ -69,9 +69,10 @@ button {
     }
 
     button {
+        color: black;
         height: 15%;
-        width: 18%;
-        font-size: 25px;
+        width: 20%;
+        font-size: 22px;
         margin: 5px;
         border: none;
         border-radius: 10px;
