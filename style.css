@@ -8,12 +8,14 @@
     font-family: "Winky Rough", sans-serif;
 }
 
+html,
 body {
     width: 100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .calculator {
