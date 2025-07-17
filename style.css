@@ -25,11 +25,16 @@ body {
 }
 
 .display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
     width: 85%;
     height: 15%;
     background-color: rgb(232, 222, 209);
     border-radius: 10px;
     margin-top: 20px;
+    font-size: 60px;
+    padding-right: 10px;
 }
 
 .button-container {
